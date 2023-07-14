@@ -1,0 +1,9 @@
+Counter@5b6f74123333Dog
+Counter@5b6f7412 ****** fgddfg ****** Dog ****** 
+1 ****** fdghdfg ****** Dog ****** 
+1 ****** fdgdfgdf ****** Cat ****** 
+1 ****** 11111 ****** Dog ****** 
+2 ****** 2222 ****** Cat ****** 
+1Dog 11111 java.text.SimpleDateFormat@1abcc5dc
+1 d d java.text.SimpleDateFormat@98d89fb
+1java.text.SimpleDateFormat@206abe82 dog 2 java.text.SimpleDateFormat@206abe82
